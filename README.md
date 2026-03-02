@@ -1,45 +1,91 @@
-# Portfolio - Het Patel
+# 👋 Hi, I'm Akash Parsaniya  
 
-Welcome to my professional portfolio! I am a **Computer Engineering student** specializing in **Machine Learning and Data Science**. This website showcases my projects, work experience, and certifications with a modern, responsive design.
-
-## 🚀 Features
-
-- **Modern UI/UX**: Dark-themed, glassmorphic design inspired by premium aesthetics.
-- **Dynamic Background**: Interactive 3D particle network powered by Three.js.
-- **Responsive Design**: Optimized for all devices—from mobile phones to wide desktops.
-- **Scroll Animations**: Smooth reveal-on-scroll effects for an engaging user experience.
-- **Interactive Lightbox**: View certificates in a sleek, full-screen popup.
-- **Hybrid Cursor**: Custom custom cursor logic with smooth lag effects for desktop users.
-- **Contact Integration**: Easy-to-use contact form that interacts directly with email clients.
-
-## 🛠️ Tech Stack
-
-- **Structure**: Semantic HTML5
-- **Style**: Custom CSS3 (Vanilla)
-- **Animation**: Intersection Observer API, CSS Transitions
-- **Graphics**: [Three.js](https://threejs.org/) (3D Background)
-- **Fonts**: Inter, JetBrains Mono (Google Fonts)
-- **Icons**: Custom SVG & Lucide-inspired iconography
-
-## 📂 Project Structure
-
-```text
-├── index.html         # Main structure
-├── style.css          # Core design system & responsive layers
-├── script.js          # Interactive logic & UI features
-├── background.js      # Three.js particle system
-├── Profile.jpeg       # Personal profile image
-└── certificates/      # Directory for credential images
-```
-
-## 🌐 Deployment
-
-This site is optimized for **GitHub Pages**.
-
-1. Create a new repository on GitHub.
-2. Push the files in this directory to the repository.
-3. Go to **Settings > Pages**.
-4. Select the `main` branch as the source and click **Save**.
+🚀 Java Developer | Spring Boot | Microservices | Problem Solver  
 
 ---
-*Created by Het Patel — 2026*
+
+## 💫 About Me  
+
+I am a passionate Computer Science student and Java Developer with strong knowledge of backend development and scalable applications.
+
+- ☕ Core Java  
+- 🌱 Spring Boot  
+- 🔐 Spring Security  
+- 🏗️ Microservices Architecture  
+- 🗄️ MySQL & PostgreSQL  
+- 🧠 Data Structures & Algorithms  
+
+I have completed my internship at Royal Technosoft, where I worked on real-world backend development projects.
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages
+- Java  
+- Python  
+- SQL  
+
+### 🚀 Backend
+- Spring Boot  
+- Spring Security  
+- REST APIs  
+- Microservices  
+
+### 🗄️ Database
+- MySQL  
+- PostgreSQL  
+
+### 🔧 Tools
+- Git & GitHub  
+- Postman  
+- IntelliJ IDEA  
+- VS Code  
+
+---
+
+## 📌 Projects  
+
+### 🔹 E-Commerce Backend (Spring Boot)
+- Developed REST APIs  
+- Implemented JWT Authentication  
+- Connected MySQL Database  
+- Role-based Authorization  
+
+### 🔹 Microservices Project
+- Service Registry (Eureka)  
+- API Gateway  
+- Config Server  
+- Inter-service communication  
+
+### 🔹 DSA Practice
+- Solved LeetCode problems  
+- Focused on Arrays, Strings, Recursion, Backtracking  
+
+---
+
+## 🏆 Achievements  
+
+- ✅ Completed Internship at Royal Technosoft  
+- ✅ Active Problem Solver on LeetCode  
+- ✅ Strong understanding of Backend Architecture  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 📧 Email: your-email@example.com  
+- 🧑‍💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+
+---
+
+⭐ Always learning, always building.
